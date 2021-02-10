@@ -1,6 +1,3 @@
-# primenumbers
-get prime numbers descending way
-
 # Ejercicio Números Primos:
 Realizar un algoritmo que imprima los números primos entre 1 y  un número dado, de forma descendente.
 Por ejemplo dado el número 7     se debería imprimir   7,5,3,2,1
