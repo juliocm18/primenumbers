@@ -13,7 +13,7 @@ Para Transpilar:
 Para Correr los Test
 - npm run test
 
-Para Transpilar y ejecutar los test
+Para Transpilar y ejecutar los test en un solo comando
 - npm run buildtest
 
 Para crear la imagen de Docker
