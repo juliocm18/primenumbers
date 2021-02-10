@@ -15,3 +15,8 @@ Para crear la imagen de Docker
 
 Para ejecutar la imagen:
 - docker run -it -p 3000:3000 primosapp
+
+Para ejecutar el servicio:
+- localhost:3000/find/numero
+Ejemplo:
+- localhost:3000/find/15
